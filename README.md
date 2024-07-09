@@ -1,1 +1,1 @@
-this is a test
+This repository will contain Dropbox's certificate pins.

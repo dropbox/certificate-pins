@@ -1,8 +1,7 @@
 # Dropbox Certificate Pins
 
 This repository contains the complete list of Dropbox's certificate pins,
-which are used
-[inside Dropbox's file sync & share clients](https://dropbox.tech/developers/api-server-certificate-changes)
+which are used inside Dropbox's file sync & share clients
 to restrict which certificate authorities are trusted.
 
 Dropbox does not recommend that application developers use certificate

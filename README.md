@@ -24,4 +24,5 @@ There are two sets of pinsets provided:
 * `trust_stores` contains compiled pinsets, in various formats
   * `pinned_roots.pem` contains the pinset in concatenated PEM format
   * `pinned_roots.pfx` contains the pinset in PKCS #12 format
-  * `pinned_roots.bks` contains the pinset in Bouncy Castle's BKS format
+  * `pinned_roots.bks` contains the pinset in Bouncy Castle's BKS format,
+     using the required password `changeit`
